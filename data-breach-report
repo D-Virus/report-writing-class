@@ -1,1 +1,12 @@
-
+#Portada
+#Tabla de Contenido
+#Resumen Ejecutivo
+#Línea de Tiempo del Ataque
+#Narrativa detallada del Ataque
+##Acceso Inicial
+##Ejecución
+##Persistencia
+##Escalada de Privilegios
+##Evasión de Controles
+##Credenciales de Acceso
+##Descubrimiento
